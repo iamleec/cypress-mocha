@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "cypress": "10.11.0"
+    "cypress": "12.17.2"
   },
   "dependencies": {
     "mochawesome-report-generator": "6.2.0"
