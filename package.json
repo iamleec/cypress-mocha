@@ -3,6 +3,6 @@
     "cypress": "12.17.2"
   },
   "dependencies": {
-    "mochawesome-report-generator": "6.2.0"
+    "mochawesome-report-generator": "6.3.2"
   }
 }
